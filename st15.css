@@ -1,0 +1,132 @@
+body{
+    background-image: url("https://i.artfile.ru/1680x1050_465004_[www.ArtFile.ru].jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    padding-top: 50px;
+}
+.text-center{
+    height:100px;
+    color: blue;
+    text-align: center;
+    font-family: 'Reggae One',sans-serif;
+}
+
+#demo {
+    width: 800px;
+    height: 550px;
+    background-color: rgba(181,184,177,0.7);
+    color: blue;
+    font-family: 'Reggae One',sans-serif; font-weight: bold;
+    padding: 20px;
+
+}
+
+.f {float: left;
+    width: 500px; padding-right: 20px;
+}
+.w {float: left;
+    width: 350px; padding-right: 20px;
+}
+.k {float: left;
+    width: 740px; padding-right: 20px;
+}
+
+#butv {
+    width: 170px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    color: blue;
+    background: white;
+    font-weight: bold;
+    border-color: blue;
+    border-style: solid;
+    border-width: 5px;
+    font-family: 'Reggae One',sans-serif;
+    margin-left: 330px;margin-top: 50px;
+}
+#butd {
+    width: 170px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    color: green;
+    background: white;
+    font-weight: bold;
+    border-color: green;
+    border-style: solid;
+    border-width: 5px;
+    font-family: 'Reggae One',sans-serif;
+}
+#buto {
+    width: 170px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    color: red;
+    background: white;
+    font-weight: bold;
+    border-color: red;
+    border-style: solid;
+    border-width: 5px;
+    font-family: 'Reggae One',sans-serif;
+}
+#butz {
+    width: 170px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    color: gold;
+    background: white;
+    font-weight: bold;
+    border-color: gold;
+    border-style: solid;
+    border-width: 5px;
+    font-family: 'Reggae One',sans-serif;
+}
+#butm {
+    width: 170px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    color: silver;
+    background: white;
+    font-weight: bold;
+    border-color: silver;
+    border-style: solid;
+    border-width: 5px;
+    font-family: 'Reggae One',sans-serif;
+}
+#out{
+    float: left;
+    color: blue;
+    font-family: 'Reggae One',sans-serif;
+}
+#out1{
+
+    float: right;
+    color: blue;
+    font-family: 'Reggae One',sans-serif;
+}
+#out2{
+    display: inline-block;
+    padding-left: 200px;
+    color: blue;
+    font-family: 'Reggae One',sans-serif;
+}
+#out3{
+    width:600px ;
+    display: inline-block;
+    margin-left: 400px;
+    color: blue;
+    font-family: 'Reggae One',sans-serif;
+}
+#out3 img{
+    width: 450px;
+}
